@@ -77,7 +77,7 @@ body {
 
 .headimage {
     display: flex;
-    flex: 1 0 400px;
+    flex: 1 0 300px;
     justify-content: flex-end;
     align-items: center;
 }
